@@ -84,6 +84,12 @@ Keyword: Conventional Commit
 
 > main หรือ master สาขาหลักที่เสถ่ียร
 > develop ระหว่างการพัฒนา ยังไม่ใช้จริง
-> feature/\* สาขาตามคถ๊สมบัติ
+> feature/\* สาขาตามคุณสมบัติที่ต้องการทำแยก
 
 ### การสร้าง branch
+
+> git branch <name>
+
+### สลับ branch
+
+> git checkout <branch>
