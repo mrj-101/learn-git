@@ -57,3 +57,14 @@ Keyword: Conventional Commit
 ### Later time
 
 > git push
+
+## Git clone
+
+(Remote Repository) -> clone -> (Local Repository)
+
+> git clone https://github.com/xxxx
+> git clone URL NEW_DIRECTORY
+
+## folk
+
+ใช้ในกรณีเราต้องการนำ Repository มาพัฒนาต่อ
