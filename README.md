@@ -25,3 +25,32 @@ Keyword: Conventional Commit
 (Stage Changes) -> (Write Commit) -> (Commit)
 
 > git commit -m "Message"
+
+## Git remote
+
+(Local Repository) <-> (Remote Repository)
+
+### Step
+
+- Create Repository on Git Provider
+- Copy Repository URL
+
+> git remote add <name> <url>
+> git remote add origin https://github.com/mrj-101/learn-git.git
+
+### Check
+
+> git remote
+> git remote get-url --all origin
+
+## Git Push
+
+(local Repository) -> Push -> (Remote Repository)
+
+### First time
+
+> git push -u origin main
+
+### Later time
+
+> git push
