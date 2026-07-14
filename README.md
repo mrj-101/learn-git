@@ -68,3 +68,12 @@ Keyword: Conventional Commit
 ## folk
 
 ใช้ในกรณีเราต้องการนำ Repository มาพัฒนาต่อ
+
+## Git Tags (ติดหมายเลขเวอร์ขัน)
+
+> gti tag <name>
+> git tag -a v1.0
+
+> git push origin <tag>
+> หรือ
+> git push --tags
