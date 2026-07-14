@@ -93,3 +93,7 @@ Keyword: Conventional Commit
 ### สลับ branch
 
 > git checkout <branch>
+
+## Git Merge
+
+> git merge --abort. (ใช้กรณีที่จะยกเลิกการ Merge)
