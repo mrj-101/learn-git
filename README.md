@@ -40,16 +40,19 @@ Keyword: Conventional Commit
 
 ### Check
 
+> git branch
 > git remote
 > git remote get-url --all origin
 
 ## Git Push
 
-(local Repository) -> Push -> (Remote Repository)
+(local Repository) -> Push with (Upstream) -> (Remote Repository)
 
 ### First time
 
 > git push -u origin main
+
+\*\* -u (Upstream)
 
 ### Later time
 
