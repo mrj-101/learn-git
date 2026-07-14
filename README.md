@@ -77,3 +77,13 @@ Keyword: Conventional Commit
 > git push origin <tag>
 > หรือ
 > git push --tags
+
+## Git branches: การแบ่งสาขา
+
+การแบ่งสาขา
+
+> main หรือ master สาขาหลักที่เสถ่ียร
+> develop ระหว่างการพัฒนา ยังไม่ใช้จริง
+> feature/\* สาขาตามคถ๊สมบัติ
+
+### การสร้าง branch
